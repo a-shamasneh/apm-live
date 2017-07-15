@@ -26,7 +26,7 @@ class App extends Component {
 
   render() {
     
-    console.log(this.state.locations)
+  
     return (
       <div className="App">
          <D3 Apm1={this.state.locations.slice(0,4)}  Apm2={this.state.locations.slice(4,8)}/>
