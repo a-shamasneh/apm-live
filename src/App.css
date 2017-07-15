@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+ .list-inline{list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+    
+ }
+ .list-inline li {
+    float: left;
+    padding: 30px;
+    margin-left: 110px
+}
